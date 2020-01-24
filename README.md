@@ -1,7 +1,5 @@
 # NMIMS in Space Documentation
-<a href="https://nis.readthedocs.io/en/latest/" alt="readthedocs build status">
-<img src="https://readthedocs.org/projects/nis/badge/?version=latest&style=plastic" />
-</a>
+
 [![Website nis.readthedocs.io](https://img.shields.io/website-up-down-green-red/http/nis.readthedocs.io.svg)](nis.readthedocs.io/)
 
 ## Building it
