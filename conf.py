@@ -18,7 +18,7 @@ master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
 
-project = 'nis'
+project = 'NMIMS in Space'
 copyright = '2020, Aditya Mulgundkar, Marmik Thakkar'
 author = 'Aditya Mulgundkar, Marmik Thakkar'
 
