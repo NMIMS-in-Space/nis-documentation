@@ -15,6 +15,7 @@ Welcome to NMIMS in Space documentation!
    :caption: Contents:
 
    Introduction
+   Experiment
 
 Indices and tables
 ==================
