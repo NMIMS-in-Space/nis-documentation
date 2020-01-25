@@ -18,6 +18,7 @@ Welcome to NMIMS in Space documentation!
    Experiment
    Data
    Results
+   Satellite
 
 Indices and tables
 ==================
