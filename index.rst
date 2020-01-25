@@ -4,7 +4,11 @@
    contain the root `toctree` directive.
 
 Welcome to NMIMS in Space documentation!
-===============================
+========================================
+
+.. image:: images/NIS_Logo.jpeg
+  :width: 100%
+  :alt: NIS Logo
 
 .. toctree::
    :maxdepth: 2
