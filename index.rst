@@ -14,7 +14,7 @@ Welcome to NMIMS in Space documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   Introduction
 
 Indices and tables
 ==================
