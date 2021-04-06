@@ -16,11 +16,9 @@ Welcome to NMIMS in Space documentation!
 
    Introduction
    Experiment
-   Data
-   Results
-   Satellite
    Team
    Sponsors
+   Satellite
 
 Indices and tables
 ==================

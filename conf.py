@@ -19,9 +19,8 @@ master_doc = 'index'
 # -- Project information -----------------------------------------------------
 
 project = 'NMIMS in Space'
-copyright = '2020, Aditya Mulgundkar, Marmik Thakkar'
+copyright = '2019-2021, Aditya Mulgundkar, Marmik Thakkar'
 author = 'Aditya Mulgundkar, Marmik Thakkar'
-
 
 # -- General configuration ---------------------------------------------------
 
@@ -44,9 +43,44 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'pydata_sphinx_theme'
+html_logo = "images/logo.jpg"
+
+html_theme_options = {
+    "icon_links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/NMIMS-in-Space",
+            "icon": "fab fa-github-square",
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/NMIMSinSpace",
+            "icon": "fab fa-twitter-square",
+        },
+    ],
+   "favicons": [
+      {
+         "rel": "icon",
+         "sizes": "16x16",
+         "href": "favicon/favicon-16x16.png",
+      },
+      {
+         "rel": "icon",
+         "sizes": "32x32",
+         "href": "favicon/favicon-32x32.png",
+      },
+      {
+         "rel": "apple-touch-icon",
+         "sizes": "180x180",
+         "href": "favicon/apple-touch-icon.png"
+      },
+   ],
+    "google_analytics_id": "UA-268099742",
+}
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ['images']
