@@ -1,4 +1,4 @@
-Experiment
+NMIMS Robotics Testbed-1 (NRT-1)
 ===========
 
 .. image:: images/MSMA.png

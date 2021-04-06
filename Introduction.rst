@@ -15,35 +15,35 @@ Introduction
 
 NMIMS Robotics Testbed-1 (NRT-1)
   The Opportunity
-    Satellize - SpaceShare
-    4th stage of PSLV (PS4)
-    Technical Requirements - specific dimensions; restrictions on sensors/ components
+    | Satellize - SpaceShare
+    | 4th stage of PSLV (PS4)
+    | Technical Requirements - specific dimensions; restrictions on sensors/ components
   The Experiment
     The Idea
-      Terfenol-D
-      Space Robotics/ COTS for space usage
-      Designing better components for space
-      Smart materials?
+      | Terfenol-D
+      | Space Robotics/ COTS for space usage
+      | Designing better components for space
+      | Smart materials?
     Design
-      Simulation - Stress Tests?
-      CAD Design
-      Electronics - PCB Design (not the actual design right?)
+      | Simulation - Stress Tests?
+      | CAD Design
+      | Electronics - PCB Design (not the actual design right?)
     Validation
-      1st prototype implemented
-      Modular software architecture
+      | 1st prototype implemented
+      | Modular software architecture
     Testing
-      Vibration Tests
-      Thermovac
-      ??? Test
+      | Vibration Tests
+      | Thermovac
+      | ??? Test
     Data
-      Understanding the material stress; transition effects; durability?
-      Basic plots (offline/ground data)
+      | Understanding the material stress; transition effects; durability?
+      | Basic plots (offline/ground data)
     Results
-      Awaiting launch
+      | Awaiting launch
     Future Improvements
-      Ground Station
-      Design optimization
-      Other smart materials to look into - NiMnGa
+      | Ground Station
+      | Design optimization
+      | Other smart materials to look into - NiMnGa
 
 The Team
   Sabka photu
