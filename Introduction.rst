@@ -20,10 +20,11 @@ NMIMS Robotics Testbed-1 (NRT-1)
     | Technical Requirements - specific dimensions; restrictions on sensors/ components
   The Experiment
     The Idea
+      | Smart materials?
       | Terfenol-D
       | Space Robotics/ COTS for space usage
       | Designing better components for space
-      | Smart materials?
+
     Design
       | Simulation - Stress Tests?
       | CAD Design
