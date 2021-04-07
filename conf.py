@@ -44,7 +44,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 html_theme = 'pydata_sphinx_theme'
-html_logo = "images/logo.jpg"
+html_logo = "_static/logo.jpg"
 
 html_theme_options = {
     "icon_links": [
@@ -78,9 +78,9 @@ html_theme_options = {
    ],
     "google_analytics_id": "UA-268099742",
 }
-
+html_favicon = 'favicon/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['images']
+html_static_path = ['_static']

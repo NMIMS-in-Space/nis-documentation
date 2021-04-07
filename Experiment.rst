@@ -1,7 +1,7 @@
 NMIMS Robotics Testbed-1 (NRT-1)
 ===========
 
-.. image:: images/MSMA.png
+.. image:: _static/MSMA.png
   :width: 100%
   :alt: MSMA
 
