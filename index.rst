@@ -6,7 +6,7 @@
 Welcome to NMIMS in Space documentation!
 ========================================
 
-.. image:: images/NIS_Logo.jpeg
+.. image:: _static/NIS_Logo.jpeg
   :width: 100%
   :alt: NIS Logo
 
