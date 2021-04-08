@@ -38,7 +38,7 @@ The payload had to be designed to test as many material properties as possible w
 Simulation 
 I did modal analysis for some reason:
 
-![alt text][rod-modal-analysis]
+
 
 CAD Design
 
@@ -62,5 +62,5 @@ Ground Station
 Design optimization
 Other smart materials to look into - NiMnGa
 
-[rod-modal-analysis]: _static/rod_modal_analysis_1.png "1st Natural Freq of rod"
+
 [board]: _static/board_1.png "1st Natural Freq of rod"
