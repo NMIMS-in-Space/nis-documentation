@@ -21,7 +21,7 @@ Thinking of writing about us? Here's a sample article to get you started: [Word 
 ## Images, captions & license information
 
 ### Downloadable Images
-You can refer to this [Google Photos Album](#) for any image you would require - all of which are shared here for the purpose of marketing.
+You can refer to this [Google Photos Album](https://photos.app.goo.gl/uAix4ptpAFBXFjvH7) for any image you would require - all of which are shared here for the purpose of marketing.
 
 ### Captions
 Following precedence is requested for purposes of captioning the team/ work (from highest preference to lowest):

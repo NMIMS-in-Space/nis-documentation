@@ -20,15 +20,15 @@ PSLV, known as the workhouse of ISRO, boasts numerous successful multi-satellite
 specific dimensions; restrictions on sensors/ components
 *Conference Plan Table*
 
-### The Experiment
+## The Experiment
 
-#### The Idea
+### The Idea
 
-##### Smart materials?
+#### Smart materials?
 
 With the increasing interest in Smart Materials and their applications, reasearchers have been gravitated towards materials that can pose as a possible substitute for alloys used in payloads. Materials that can achieve similar results with compact designs, lighter weight and modular structures are prefered. With these considerations Magnetostrictive materials prove as a valid alternative. Terfenol-D, composed of Terbium, Dysprosium and Iron, exhibits the capability of changing its shape and/or dimension during the process of magnetization. This opens up oppotunities of smaller satellites that can expand, dilate or adapt.
 
-##### Terfenol-D
+#### Terfenol-D
 
 Terfenol D exhibits the highest magnetostriction out of any alloy, with upto 0.002 m/m at saturation. They have shown promising results when used for low frequency acoustic devices.
 Space Robotics/ COTS for space usage
