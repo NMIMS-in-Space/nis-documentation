@@ -12,14 +12,14 @@ Welcome to NMIMS in Space documentation!
   :alt: NIS Logo
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    Introduction
    Experiment
    Team
-   Sponsors
-   Satellite
+   Press
+   Contact
 
 Indices and tables
 ==================
