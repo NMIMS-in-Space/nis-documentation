@@ -63,22 +63,22 @@ html_theme_options = {
       {
          "rel": "icon",
          "sizes": "16x16",
-         "href": "favicon/favicon-16x16.png",
+         "href": "_static/favicon/favicon-16x16.png",
       },
       {
          "rel": "icon",
          "sizes": "32x32",
-         "href": "favicon/favicon-32x32.png",
+         "href": "_static/favicon/favicon-32x32.png",
       },
       {
          "rel": "apple-touch-icon",
          "sizes": "180x180",
-         "href": "favicon/apple-touch-icon.png"
+         "href": "_static/favicon/apple-touch-icon.png"
       },
    ],
     "google_analytics_id": "UA-268099742",
 }
-html_favicon = 'favicon/favicon.ico'
+html_favicon = '_static/favicon/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
