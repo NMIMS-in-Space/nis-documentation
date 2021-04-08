@@ -62,5 +62,5 @@ Ground Station
 Design optimization
 Other smart materials to look into - NiMnGa
 
-[rod-modal-analysis]: _static/rod_modal_analysis.png "1st Natural Freq of rod"
-[board]: _static/board.png "1st Natural Freq of rod"
+[rod-modal-analysis]: _static/rod_modal_analysis_1.png "1st Natural Freq of rod"
+[board]: _static/board_1.png "1st Natural Freq of rod"

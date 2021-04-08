@@ -1,0 +1,19 @@
+.team-holder .team-member {
+    width: calc(20% - 4px);
+    display: inline-block;
+}
+
+@media only screen and (max-width: 768px) {
+    .team-holder .team-member {
+        width: 100%;
+        display: block;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .team-holder .team-member img {
+        width: 40%;
+    }
+    .hidden-mobile {
+        display: none;
+    }
+}
