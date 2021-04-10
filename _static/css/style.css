@@ -9,6 +9,9 @@
     overflow: hidden;
 }
 
+img[alt=drawing] { width: 200px; }
+
+
 @media only screen and (max-width: 768px) {
     .team-holder .team-member {
         width: 100%;
