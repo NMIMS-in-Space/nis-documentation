@@ -4,26 +4,34 @@
    contain the root `toctree` directive.
 
 
-Welcome to NMIMS in Space documentation!
+NMIMS in Space
 ========================================
 
-.. image:: _static/NIS_Logo.jpeg
-  :width: 100%
+**NMIMS in Space** is a research project started by an interdisciplinary team of students & alumni from NMIMS MPSTME. Most of us are aspiring researchers who are looking forward to creating our own mark in the research & academia world & are humbled to have accepted this opportunity by Satellize & ISRO.
+
+The **NRT-1** or **NMIMS Robotics Testbed-1** is our foray into desiging and building space-grade robotic components. 
+
+|
+
+.. image:: _static/isro.png
+  :height: 100px
   :alt: NIS Logo
 
+.. image:: _static/NIS_Logo.jpeg
+  :height: 100px
+  :alt: NIS Logo
+
+.. image:: _static/satellize.png
+  :height: 100px
+  :alt: NIS Logo
+
+|
+
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Contents:
 
-   Introduction
    Experiment
    Team
    Press
    Contact
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
